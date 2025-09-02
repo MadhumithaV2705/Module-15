@@ -20,7 +20,7 @@ To write a Python program to build a binary tree with a root, left, and right no
 
 ```
 Reg.No: 212223060145
-Name; Madhumitha V
+Name: Madhumitha V
 
 from binarytree import build
 l=[]
